@@ -1,1 +1,1 @@
-# MY-IQ check
+# This project is to calculate IQ
