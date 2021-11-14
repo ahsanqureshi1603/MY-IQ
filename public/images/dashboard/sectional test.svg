@@ -1,0 +1,21 @@
+<svg id="pie-chart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="524" height="524" viewBox="0 0 524 524">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#addcff"/>
+      <stop offset="0.499" stop-color="#eaf6ff"/>
+      <stop offset="1" stop-color="#eaf6ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00c0ff"/>
+      <stop offset="1" stop-color="#5558ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_352" data-name="Group 352">
+    <circle id="Ellipse_32" data-name="Ellipse 32" cx="262" cy="262" r="262" fill="url(#linear-gradient)"/>
+  </g>
+  <g id="Group_354" data-name="Group 354" transform="translate(108.646 125.912)">
+    <g id="Group_353" data-name="Group 353">
+      <path id="Path_2585" data-name="Path 2585" d="M312.4,156.864l-43.937,39.117a9.01,9.01,0,0,1-8.881,1.825A63.413,63.413,0,0,0,178.2,242.213a9.051,9.051,0,0,1-8.766,6.8H114.073a9.073,9.073,0,0,1-8.97-10.358C114.6,172.156,172.429,122,239.6,122a135.391,135.391,0,0,1,71.553,20.378,9.079,9.079,0,0,1,1.239,14.486Zm55.7,215.774a9.044,9.044,0,0,1-12.782.735l-67.564-60.238a9.086,9.086,0,0,1-.751-12.8,63.736,63.736,0,0,0,0-84.488,9.088,9.088,0,0,1,.751-12.8L355.315,142.8a9.053,9.053,0,0,1,12.782.735,172.25,172.25,0,0,1,0,229.1ZM114.056,267.161h55.437a9.058,9.058,0,0,1,8.775,6.822A63.3,63.3,0,0,0,265.7,315.961l57.115,52.257C301.123,385.8,274.1,394.176,239.6,394.176c-67.086,0-124.911-50.146-134.508-116.641A9.067,9.067,0,0,1,114.056,267.161Z" transform="translate(-104.999 -122)" fill="url(#linear-gradient-2)"/>
+    </g>
+  </g>
+</svg>
