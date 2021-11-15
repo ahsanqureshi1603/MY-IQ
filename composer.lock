@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "43d0f2a5ca6dd5615663048ae0829c46",
+    "content-hash": "73ac6c014328ab64c9bac6da8093b0f5",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1356,27 +1356,27 @@
         },
         {
             "name": "laravel/jetstream",
-            "version": "v1.6.1",
+            "version": "v2.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/jetstream.git",
-                "reference": "daba98419164024e2c071f5547dd5569aba69d98"
+                "reference": "24d90e998a97636871d1d0f6a2f32cc8f954666d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/jetstream/zipball/daba98419164024e2c071f5547dd5569aba69d98",
-                "reference": "daba98419164024e2c071f5547dd5569aba69d98",
+                "url": "https://api.github.com/repos/laravel/jetstream/zipball/24d90e998a97636871d1d0f6a2f32cc8f954666d",
+                "reference": "24d90e998a97636871d1d0f6a2f32cc8f954666d",
                 "shasum": ""
             },
             "require": {
                 "ext-json": "*",
                 "illuminate/support": "^8.0",
                 "jenssegers/agent": "^2.6",
-                "laravel/fortify": "^1.0",
+                "laravel/fortify": "^1.6.1",
                 "php": "^7.3|^8.0"
             },
             "require-dev": {
-                "inertiajs/inertia-laravel": "^0.2.4",
+                "inertiajs/inertia-laravel": "^0.3",
                 "laravel/sanctum": "^2.6",
                 "mockery/mockery": "^1.0",
                 "orchestra/testbench": "^6.0",
@@ -1385,7 +1385,7 @@
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "1.x-dev"
+                    "dev-master": "2.x-dev"
                 },
                 "laravel": {
                     "providers": [
@@ -1418,7 +1418,7 @@
                 "issues": "https://github.com/laravel/jetstream/issues",
                 "source": "https://github.com/laravel/jetstream"
             },
-            "time": "2020-11-17T16:31:17+00:00"
+            "time": "2021-11-02T16:27:07+00:00"
         },
         {
             "name": "laravel/sanctum",
@@ -1805,23 +1805,23 @@
         },
         {
             "name": "livewire/livewire",
-            "version": "v2.3.2",
+            "version": "v2.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/livewire/livewire.git",
-                "reference": "8aa271bc3af74d8fea8480b372ecaa0d5ae3f6d2"
+                "reference": "991e5bd8a48e450d23cd55336964f916e92a6464"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/livewire/livewire/zipball/8aa271bc3af74d8fea8480b372ecaa0d5ae3f6d2",
-                "reference": "8aa271bc3af74d8fea8480b372ecaa0d5ae3f6d2",
+                "url": "https://api.github.com/repos/livewire/livewire/zipball/991e5bd8a48e450d23cd55336964f916e92a6464",
+                "reference": "991e5bd8a48e450d23cd55336964f916e92a6464",
                 "shasum": ""
             },
             "require": {
                 "illuminate/database": "^7.0|^8.0",
                 "illuminate/support": "^7.0|^8.0",
                 "illuminate/validation": "^7.0|^8.0",
-                "php": "^7.2.5",
+                "php": "^7.2.5|^8.0",
                 "symfony/http-kernel": "^5.0"
             },
             "require-dev": {
@@ -1865,7 +1865,7 @@
             "description": "A front-end framework for Laravel.",
             "support": {
                 "issues": "https://github.com/livewire/livewire/issues",
-                "source": "https://github.com/livewire/livewire/tree/v2.3.2"
+                "source": "https://github.com/livewire/livewire/tree/v2.7.2"
             },
             "funding": [
                 {
@@ -1873,7 +1873,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-11-17T14:58:56+00:00"
+            "time": "2021-10-20T02:27:35+00:00"
         },
         {
             "name": "mobiledetect/mobiledetectlib",
@@ -7936,5 +7936,5 @@
         "php": "^7.3|^8.0"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
